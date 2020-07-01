@@ -1,0 +1,45 @@
+
+
+#center{
+   text-align: center; 
+
+}
+
+.red-highlight{
+    color: violet;
+}
+.link-button {
+    text-decoration: none;
+    background-image:linear-gradient(rgb(224, 107, 142), rgb(224, 102, 218));
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+
+p{
+    color: dimgray;
+}
+
+.half-width{
+
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 40%;
+
+}
+
+#work{
+float: left;
+width: 20%;
+padding:5%;
+}
+
+
